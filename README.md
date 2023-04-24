@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Me chamo Fabio Vieira Alves<br>👯 Atualmente sou estagiário web<br>🤝 Trabalho com TypeScript, Node.JS/express e docker postgres<br>🌱 Estou aprendendo AWS<br>💬 Pergunte-me qualquer coisa<br>
+🔭 Me chamo Fabio Vieira Alves<br>👯 Atualmente sou desenvolvedor web jr<br>🤝 Trabalho com TypeScript, Node.JS/express e docker postgres<br>🌱 Estou aprendendo AWS<br>💬 Pergunte-me qualquer coisa<br>
 
 
 ## 🌐 Socials:
